@@ -1,0 +1,14 @@
+{
+  "name": "mysql-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": " node --env-file .env connect.js"
+  },
+  "author": "Agisna Revaldo",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
